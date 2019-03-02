@@ -1,14 +1,8 @@
-## Welcome to Scots Dev
+# Welcome to Scots Dev
 
 Community maintained repo for collating lists of events, meetups, conferences, slack groups and organisations working in technology across Scotland.
 
-### Meetups
-
-* AberdeenPHP - https://aberdeenphp.co.uk/
-* DundeePHP - http://dundeephp.co.uk
-* GlasgowPHP - https://glasgowphp.co.uk/
-* Edpug - http://edpug.co.uk/
-* 57North Hacklab - https://57north.org.uk/
+## National
 
 ### Conferences
 
@@ -19,6 +13,35 @@ Community maintained repo for collating lists of events, meetups, conferences, s
 * Development & Technology - http://links.devtech.scot/slack
 * ScotlandPHP - http://slack.scotlandphp.co.uk
 
+## Aberdeen
+
+### Meetups
+
+* AberdeenPHP - https://aberdeenphp.co.uk/
+* 57North Hacklab - https://57north.org.uk/
+
 ### Other Directories/Pages Listing Similar Information
 
 * (Aberdeen) - https://wiki.57north.org.uk/index.php/Organisations
+
+## Dundee
+
+### Meetups
+
+* DundeePHP - http://dundeephp.co.uk
+
+## Edinburgh
+
+### Meetups
+
+* Edpug - http://edpug.co.uk/
+
+## Glasgow
+
+### Meetups
+
+* GlasgowPHP - https://glasgowphp.co.uk/
+
+## Somewhere else?
+
+Send us a PR with any locations/events/groups we're missing.
