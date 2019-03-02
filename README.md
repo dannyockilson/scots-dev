@@ -8,6 +8,7 @@ Community maintained repo for collating lists of events, meetups, conferences, s
 * DundeePHP - http://dundeephp.co.uk
 * GlasgowPHP - https://glasgowphp.co.uk/
 * Edpug - http://edpug.co.uk/
+* 57North Hacklab - https://57north.org.uk/
 
 ### Conferences
 
@@ -17,3 +18,7 @@ Community maintained repo for collating lists of events, meetups, conferences, s
 
 * Development & Technology - http://links.devtech.scot/slack
 * ScotlandPHP - http://slack.scotlandphp.co.uk
+
+### Other Directories/Pages Listing Similar Information
+
+* (Aberdeen) - https://wiki.57north.org.uk/index.php/Organisations
