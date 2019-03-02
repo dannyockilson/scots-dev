@@ -41,6 +41,7 @@ Community maintained repo for collating lists of events, meetups, conferences, s
 ### Meetups
 
 * GlasgowPHP - https://glasgowphp.co.uk/
+* DevOps Glasgow - https://www.meetup.com/DevOpsGlasgow/
 
 ## Somewhere else?
 
