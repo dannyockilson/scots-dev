@@ -42,6 +42,8 @@ Community maintained repo for collating lists of events, meetups, conferences, s
 
 * GlasgowPHP - https://glasgowphp.co.uk/
 * DevOps Glasgow - https://www.meetup.com/DevOpsGlasgow/
+* CodeCraft - https://www.codecraftuk.org/
+* Lean Agile Glasgow - https://www.meetup.com/Lean-Agile-Glasgow/
 
 ## Somewhere else?
 
