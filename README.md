@@ -2,7 +2,7 @@
 
 Community maintained repo for collating lists of events, meetups, conferences, slack groups and organisations working in technology across Scotland.
 
-{% for region in site.data.events %}
+{% for region in site.data.events.regions %}
     ## {{region.name}}
 
     {% if region.conferences %}
