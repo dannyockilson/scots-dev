@@ -8,7 +8,7 @@ Community maintained repo for collating lists of events, meetups, conferences, s
     {% if region.conferences %}
         ### Conferences
 
-        {% event in region.conferences %}
+        {% for event in region.conferences %}
             * [{{event.name}}]({{event.link}})
         {% endfor %}
     {% endif %}
@@ -16,7 +16,7 @@ Community maintained repo for collating lists of events, meetups, conferences, s
     {% if region.meetups %}
         ### Meetups
 
-        {% event in region.meetups %}
+        {% for event in region.meetups %}
             * [{{event.name}}]({{event.link}})
         {% endfor %}
     {% endif %}
@@ -24,7 +24,7 @@ Community maintained repo for collating lists of events, meetups, conferences, s
     {% if region.slack %}
         ### Slack Teams
 
-        {% event in region.slack %}
+        {% for event in region.slack %}
             * [{{event.name}}]({{event.link}})
         {% endfor %}
     {% endif %}
@@ -32,7 +32,7 @@ Community maintained repo for collating lists of events, meetups, conferences, s
     {% if region.misc %}
         ### Other Relevant Links
 
-        {% event in region.misc %}
+        {% for event in region.misc %}
             * [{{event.name}}]({{event.link}})
         {% endfor %}
     {% endif %}
