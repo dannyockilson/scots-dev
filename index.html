@@ -1,0 +1,51 @@
+<h1>Welcome to Scots Dev</h1>
+
+<p>Community maintained repo for collating lists of events, meetups, conferences, slack groups and organisations working in technology across Scotland.</p>
+
+{% for region in site.data.events.regions %}
+    <h2>{{region.name}}</h2>
+
+    {% if region.conferences %}
+        <h3>Conferences</h3>
+
+        <ul>
+        {% for event in region.conferences %}
+            <li><a href="{{event.link}}" title="{{event.name}}">{{event.name}}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if region.meetups %}
+        <h3>Meetups</h3>
+
+        <ul>
+        {% for event in region.meetups %}
+            <li><a href="{{event.link}}" title="{{event.name}}">{{event.name}}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if region.slack %}
+        <h3>Slack Teams</h3>
+
+        <ul>
+        {% for event in region.slack %}
+            <li><a href="{{event.link}}" title="{{event.name}}">{{event.name}}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if region.misc %}
+        <h3>Other Relevant Links</h3>
+
+        <ul>
+        {% for event in region.misc %}
+            <li><a href="{{event.link}}" title="{{event.name}}">{{event.name}}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+{% endfor %}
+
+<h2>Somewhere else?</h2>
+
+<p>Send us a PR with any locations/events/groups we're missing.</p>
