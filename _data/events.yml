@@ -1,0 +1,39 @@
+regions:
+  - name: National
+    conferences:
+      - name: ScotlandPHP
+        link: https://conference.scotlandphp.co.uk
+    slack:
+      - name: Development & Technology
+        link: http://links.devtech.scot/slack
+      - name: ScotlandPHP
+        link: http://slack.scotlandphp.co.uk
+  - name: Aberdeen
+    meetups:
+      - name: AberdeenPHP
+        link: https://aberdeenphp.co.uk/
+      - name: 57North Hacklab
+        link: https://57north.org.uk/
+      - name: Aberdeen Developers .Net User Group
+        link: http://www.aberdeendevelopers.co.uk/
+    misc:
+      - name: 57North Directory
+        link: https://wiki.57north.org.uk/index.php/Organisations
+  - name: Dundee
+    meetups:
+      - name: DundeePHP
+        link: http://dundeephp.co.uk
+  - name: Edinburgh
+    meetups:
+      - name: Edpug
+        link: http://edpug.co.uk/
+  - name: Glasgow
+    meetups:
+      - name: GlasgowPHP
+        link: https://glasgowphp.co.uk/
+      - name: DevOps Glasgow
+        link: https://www.meetup.com/DevOpsGlasgow/
+      - name: CodeCraft
+        link: https://www.codecraftuk.org/
+      - name: Lean Agile Glasgow
+        link: https://www.meetup.com/Lean-Agile-Glasgow/
