@@ -27,6 +27,8 @@ regions:
     meetups:
       - name: Edpug
         link: http://edpug.co.uk/
+      - name: PostgreSQL Edinburgh meetup
+        link: https://luma.com/PostgresEDI
   - name: Glasgow
     meetups:
       - name: GlasgowPHP
